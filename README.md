@@ -9,4 +9,4 @@ Algorithms can be grouped under three classes:<br/>
 
 3. **Greedy Algorithms:** Involves taking the easiest step while solving a problem without worrying about the complexity of the future steps. <br/>
 --------------
-This repository features sorting algorithms: Merge Sort, Selection Sort, Bubble Sort and Insertion Sort.
+This repository features sorting algorithms: Merge Sort, Selection Sort, Bubble Sort and Insertion Sort and many different algorithms.
