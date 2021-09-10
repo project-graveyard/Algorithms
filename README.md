@@ -1,7 +1,5 @@
 # Algorithms
 
----
-
 An algorithm is a sequence of steps followed to solve a problem.<br/>
 Algorithms can be grouped under three classes:<br/>
 
