@@ -1,7 +1,7 @@
 # Algorithms
 
 An algorithm is a sequence of steps followed to solve a problem.
-Here are a few classes of algorithms:
+Here are the main classes of algorithms:
 
 1. **Divide & Conquer:** Divides the problem into sub-parts and solves each one separately.
 
